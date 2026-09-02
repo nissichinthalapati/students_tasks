@@ -40,3 +40,4 @@ vignettes/*.pdf
 
 # others
 .DSstore
+user_data_project/venv/
